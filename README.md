@@ -20,7 +20,7 @@ Add to `mix.exs`:
 ```elixir
 def deps do
   [
-    {:rs_protect, path: "./rs_protect"}
+    {:rs_protect, "~> 0.1"}
   ]
 end
 ```
